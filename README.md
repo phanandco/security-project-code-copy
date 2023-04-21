@@ -1,4 +1,4 @@
-## Uncomplete issues planning:
+## Incomplete issues planning:
 - Two-factor authentication when accessing the repository. Difficulty: Easy Priority: Medium
 - Solution: Google Authenticator is a great two-factor authentication tool that will be implemented in the future.
 - Implement encryption methods to perform commits. Difficulty: Moderate Priority: Mediium
