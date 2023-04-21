@@ -1,10 +1,10 @@
 ## Uncomplete issues planning:
 - Two-factor authentication when accessing the repository. Difficulty: Easy Priority: Medium
-. Google Authenticator is a great two-factor authentication tool that will be implemented in the future.
+- Solution: Google Authenticator is a great two-factor authentication tool that will be implemented in the future.
 - Implement encryption methods to perform commits. Difficulty: Moderate Priority: Mediium
-. Encrypt a file by generating and transfer the decryption key or set a password on the file.
+- Solution: Encrypt a file by generating and transfer the decryption key or set a password on the file.
 - User error input logging will be implemented. Difficulty: Moderate Priority: Low
-. Implement a local Version Control System or keep track of the loggin database.
+- Solution: Implement a local Version Control System or keep track of the loggin database.
 
 https://github.com/phanandco/security-project-code-copy-2/commit/285e0282a6eae1ae6eff70677d956a916dfb30d2
 
