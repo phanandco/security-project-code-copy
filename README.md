@@ -14,7 +14,7 @@ https://github.com/phanandco/security-project-code-copy-2/commit/285e0282a6eae1a
 - Declaring classes allows data encasulation, follows Oject Oriented Programming practices, improve tracibility and maintainability withion the code. Declaring classes controls access to data and functions, that could result in
 unwanted alterations to sensitive information.
 ### Fix 3: Implement of smart pointers that would potentially eliminate bound issues.
-- Improve memory allocation and deallocation. Smart pointers eliminate memeory leaks.
+- Improve memory allocation and deallocation. Smart pointers eliminate memory leaks.
 
 ## The addition or use of an online repository has increased security related to Access control and Code Sharing/Distribution by:
 - Access control
